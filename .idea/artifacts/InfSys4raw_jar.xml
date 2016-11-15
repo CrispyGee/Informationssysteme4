@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="InfSys4raw:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/InfSys4raw_jar</output-path>
+    <root id="archive" name="InfSys4raw.jar">
+      <element id="module-output" name="InfSys4raw" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/ifxjdbc.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/Generator.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
