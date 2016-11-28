@@ -4,7 +4,6 @@
     <root id="archive" name="InfSys4raw.jar">
       <element id="module-output" name="InfSys4raw" />
       <element id="extracted-dir" path="D:/Informationssysteme/Generator.jar" path-in-jar="/" />
-      <element id="extracted-dir" path="$PROJECT_DIR$/ifxjdbc.jar" path-in-jar="/" />
     </root>
   </artifact>
 </component>
